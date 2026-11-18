@@ -1,0 +1,16 @@
+* {
+    color: pink;
+    background-color: #FF1493;
+    font-family: "gill sans", sans-serif;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    font-style:italic;
+    font-size:large;
+}
+
+p {
+    font-weight: normal;
+}
